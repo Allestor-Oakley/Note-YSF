@@ -1,0 +1,16 @@
+- definisi singkat
+- nama dagang
+- MOA
+- indikasi
+- farmakodinamik
+- farmakokinetik
+	- absorpsi
+	- distribusi
+	- metabolisme
+	- eliminasi+eksresi
+- efek samping
+- interaksi
+	- obat
+	- makanan
+- kontraindikasi
+

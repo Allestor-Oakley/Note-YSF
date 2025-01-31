@@ -1,0 +1,4 @@
+- [[Ceftazidime]]
+- [[Ceftazidime]] + [[Avibactam]]
+- [[Cefepime]]
+- [[Ceftolozone]] + [[Tazobactam]]

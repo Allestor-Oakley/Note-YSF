@@ -1,0 +1,205 @@
+# Properti dan PP
+- **Structure**:
+  - Icosahedral shape.
+  - Approximately 50 nm in diameter.
+  - Consist of a lipid envelope densely covered with surface projections.
+- **Glycoproteins**:
+  - 180 copies of the M (membrane) glycoproteins.
+  - 180 copies of the E (envelope) glycoproteins.
+  - Glycoproteins are organized as dimers, paired horizontally head to tail on the virion surface.
+- **Environmental Stability**:
+  - Unstable in the environment.
+  - Sensitive to:
+    - Heat.
+    - Ultraviolet radiation.
+    - Disinfectants (including alcohol and iodine).
+    - Acid pH.
+- **Genetic Material**:
+  - Nucleocapsid joins the capsid (C) protein to a single strand of positive-sense RNA.
+  - RNA is 11 kb in length.
+- **Genomic Sequence**:
+  - Includes a 10-kb open reading frame.
+  - Translated as a single polyprotein precursor.
+  - Cotranslationally and posttranslationally processed to yield 10 proteins.
+- **Protein Gene Products**:
+  - Order from the 5′ end:
+    - C (capsid).
+    - Premembrane (preM, a precursor of the mature M protein).
+    - E (envelope).
+    - Seven nonstructural (NS) proteins: NS1, NS2A, NS2B, NS3, NS4A, NS4B, NS5.
+- **Noncoding Regions**:
+  - Open reading frame flanked by:
+    - A short (~100 nucleotides) 5′ noncoding region.
+    - A 3′ noncoding region that is variable in length (100–700 nucleotides).
+- **E Protein Biologic Properties**:
+  - Attachment to host cell receptors.
+  - Endosomal membrane fusion.
+  - Displays sites mediating hemagglutination and viral neutralization.
+  - Carboxyl terminus provides a membrane anchor.
+  - Ectodomain folded into three structural and antigenic domains:
+    - **Domain I**
+    - **Domain II**: Involved in fusion.
+    - **Domain III**: Involved in receptor binding.
+  - Viral-neutralizing epitopes are found in all three domains, which are nonlinear and conformationally dependent due to protein folding.
+- **PreM Protein**:
+  - Chaperones the E protein into the cell secretory pathway, preventing misfolding.
+  - Cleaved to its M form in the mature virion.
+- **NS1 Protein**:
+  - Expressed on the surface of infected cells.
+  - Secreted as a complement-fixing antigen.
+  - Antibodies to NS1 do not neutralize the virus but contribute to protective immunity, likely through antibody-dependent cellular cytotoxicity and cell-mediated responses against infected cells.
+- **Other NS Proteins**:
+  - **NS2A, NS2B, NS3, NS4B, NS5**:
+    - Display epitopes mediating viral serotype and flavivirus cross-reactive human leukocyte antigen (HLA)–restricted lymphocytic responses.
+    - Involved in interferon antagonism.
+- **Viral Attachment and Entry**:
+  - Attachment to unidentified cellular receptors.
+  - Endocytic uptake of virus-containing vesicles.
+- **Fusion and Uncoating**:
+  - Acidic-induced changes in the viral envelope lead to fusion activity.
+  - Uncoating of the nucleocapsid and release of viral RNA into the cytoplasm.
+- **Coreceptors**:
+  - Glycosaminoglycans and proteoglycans implicated as coreceptors.
+  - Proteinaceous receptors believed to be involved.
+  - Viral binding varies with cell type.
+- **Polyprotein Processing**:
+  - Viral polyprotein is cotranslationally and posttranslationally processed.
+  - Processing occurs through the rough endoplasmic reticulum.
+  - Provides the replicative complex for further viral RNA and protein synthesis.
+- **Virion Assembly and Maturation**:
+  - Assembly of nascent virions in the Golgi complex and trans-Golgi network.
+  - Immature virions collect in the highly proliferated endoplasmic reticulum and secretory vesicles before release.
+- **Intracellular Accumulations**:
+  - Intracellular nucleocapsid accumulations observed in some virus cell systems.
+- **Adaptation**:
+  - Flaviviruses grow in a wide variety of insect, tick, and vertebrate cells.
+  - Adapted to temperatures spanning the normal ranges of their arthropod, reptilian, mammalian, and avian hosts.
+- **Cytopathologic Changes and Plaque Formation**:
+  - Develop in Vero, LLC-MK2 (rhesus monkey kidney), BHK-21 (baby hamster kidney), PS, and primary chick and duck embryo cells.
+  - Infection of mosquito cell lines (e.g., C6/36, AP61) is typically nondestructive and may persist.
+- **Natural Infection and Hosts**:
+  - A wide range of vertebrates, including mammals, birds, and reptiles, serve as amplifying hosts.
+  - Transmission cycle involves alternating arthropod and vertebrate infection.
+  - Infections are usually asymptomatic.
+- **Pathogenicity in Animals**:
+  - Neurotropic flaviviruses produce encephalitis in horses (e.g., JEV, SLE virus, WNV, Kunjin virus, TBEV, POWV).
+  - Certain TBEV strains are neurotropic for dogs, sheep, and goats.
+  - JEV causes swine abortion.
+  - Louping ill virus causes encephalitis in sheep.
+  - YF virus and KFDV are lethal in some monkey species.
+  - Laboratory rodents are generally susceptible to neurotropic infection, with sensitivity inversely related to age.
+- **Antigenic Groups**:
+  - Classified by cross-neutralization assays into eight groups.
+  - Most important groups include:
+    - **JE Complex**: JEV, SLE virus, WNV, USUV, Murray Valley encephalitis virus.
+    - **Dengue Complex**: DENV-1 through DENV-4 viruses.
+    - **Mammalian Tick-Borne Virus Complex**: TBEV, louping ill virus, POWV, KFDV, Omsk hemorrhagic fever virus.
+    - **YF Virus**: Yellow Fever virus.
+    - **Non–Vector-Borne Rodent and Bat-Associated Viruses**.
+- **Genetic Studies**:
+  - Support the antigenic classification.
+  - Suggest evolution from insect-only viruses to mosquito-borne, then non-vector-borne flaviviruses and tick-borne viruses.
+  - Facilitate evolution studies and tracking of viral movements historically and in epidemics.
+- **Genotypic Markers**:
+  - Help in understanding the emergence of dengue and JE epidemics.
+  - Correlated with viral biologic characteristics and transmission patterns.
+  - YF virus strains divided into seven genotypes:
+    - Three in East and Central Africa.
+    - Two in West Africa.
+    - Two in South America.
+    - Close relationship between West African and South American viruses suggests YF virus introduction to the Western Hemisphere from Africa.
+- **Viral Genotypes and Characteristics**:
+  - SLE viral genotypes from the eastern and western United States exhibit distinct neurovirulence and transmission characteristics.
+  - Four DENV types (DENV-1 to DENV-4) recognized as distinct virus species based on antigenic and genetic characteristics.
+  - Structural distinctions between strains associated with classic dengue and severe dengue (DHF) provide clues to molecular determinants of dengue viral virulence.
+# Diagnosis
+- **Viral Isolation and Diagnosis**:
+  - Relevant during the early illness phase when patients are viremic with high viral infectivity titers in blood.
+  - Real-time RT-PCR is the preferred technique to detect viremia for all flaviviruses.
+  - In flavivirus encephalitis-producing viruses like JEV and WNV, mammalian hosts are dead-end hosts due to minimal viral load and insufficient titers for isolation.
+- **Dengue Virus (DENV)**:
+  - Identifying the infective dengue viral type is crucial for public health and individual patient management.
+  - Future exposure to other DENV types places patients at higher risk for DHF.
+- **Viral Recovery from Blood**:
+  - Successful only before an antibody response develops.
+- **Neurotropic Viruses**:
+  - Isolation from CSF is generally unsuccessful except in early stages of fulminant illness.
+
+- **Tissue Sample Handling**:
+  - Samples from biopsy or autopsy should be divided into aliquots:
+    - Frozen at −70°C for viral isolation.
+    - Fixed in buffered formalin and glutaraldehyde for light and electron microscopy.
+- **Postmortem Diagnosis of Yellow Fever (YF)**:
+  - Viscerotomy liver samples are frequently taken after death.
+  - Pathologic changes are not pathognomonic; histologic diagnosis should be supplemented with immunohistochemical staining using virus-specific antibodies.
+  - Liver biopsy should never be attempted in patients with suspected YF due to risk of fatal hemorrhage.
+- **Viral Isolation from Various Organs**:
+  - SLE virus, WNV, TBEV, and JEV isolated from brain, lung, liver, spleen, and kidney with varied success depending on duration of illness and day of death.
+  - Diverse areas of the brain and spinal cord should be sampled.
+  - JEV rarely cultured from peripheral blood using conventional techniques; culture from white blood cells separated from blood clots may be positive.
+  - SLE virus isolated from vitreous humor in one case.
+- **Viral Isolation Systems**:
+  - Suckling mice and C6/36 or AP61 mosquito cell cultures are the most sensitive systems.
+  - Vero, LLC-MK2, PS, and other continuous vertebrate cell lines are also used.
+
+- **Multiplex PCR Assays**:
+  - Used to simultaneously identify the presence of DENV and its serotype in serum samples.
+  - Available in specialized laboratories in the United States, several Asian, African, and South American countries.
+- **Yellow Fever (YF) Virus**:
+  - Genomic sequences detected in blood, but clinical experience is limited.
+- **Flavivirus Encephalitis**:
+  - RT-PCR assay of the CSF is not very useful.
+  - May have a role in detecting TBEV in acute serum.
+- **Real-Time (TaqMan) PCR Assay**:
+  - Sensitive in detecting WNV in the CSF and serum.
+  - Used for screening blood products.
+- **PCR Assays**:
+  - Developed for detection and quantification (viral load) of all flaviviruses.
+  - Preferred diagnostic tests during the viremic period due to:
+    - Speed (less than 4 hours in many assays).
+    - High degree of sensitivity and specificity.
+
+- **Serologic Testing**:
+  - Principal method for diagnosis, especially in travelers after viremia has cleared.
+  - Involves testing serum and CSF (for neurologic infections).
+- **IgM Detection**:
+  - Preferred technique: antibody capture enzyme-linked immunosorbent assay (ELISA).
+  - Some laboratories use indirect immunofluorescence assay for IgM and IgG antibodies.
+  - More than 95% sensitive when serum specimens are obtained between 7 and 10 days after onset.
+  - Combination of IgM and IgG ELISA is 100% sensitive for secondary flavivirus infections as early as 4 to 5 days after onset.
+- **CSF and Serum Examination**:
+  - Both should be tested in flavivirus encephalitis cases.
+  - IgM may appear earlier in the CSF.
+  - Positive results obtained in almost all patients by 10 days after onset, with a 10% increase in cumulative positivity per day.
+- **Antibody Persistence**:
+  - Serum IgM in DENV infection declines to undetectable levels within 60 days.
+  - Antibodies persist for up to 9 months in recovered SLE and TBE patients and for longer than 16 months in some WNE patients.
+- **Heterologous Reactions**:
+  - Problematic due to extensive serologic cross-reactivity between flaviviruses.
+  - Five flaviviruses (DENV, JEV, ZIKV, WNV, KFDV) may cocirculate in Asia.
+  - YF virus and DENV cocirculate in Africa.
+  - YF virus, DENV, and SLE virus cocirculate in South America.
+- **False-Positive Results**:
+  - Recent vaccination against JE or YF, or recent infection with dengue or SLE virus, may cause false-positive WNV IgM antibody test results.
+  - Neutralization assays (plaque reduction neutralization test, ELISA detecting antibody to NS5) are more specific.
+- **Fractionation and Specificity**:
+  - Fractionation of IgM before hemagglutination inhibition testing improves specificity.
+  - Competitive epitope-blocking ELISA improves specificity.
+  - All serologic approaches frequently fail to resolve previous and recent infections among sera from African patients.
+- **Previous DENV Infection**:
+  - Frequent finding in arboviral diagnosis due to prior exposures in persons who have resided abroad.
+  - Interferes with interpretation of serologic diagnosis of recent flavivirus infection.
+- **Neutralization Tests**:
+  - Provide the greatest specificity but are time-consuming and expensive.
+  - Offered only in specialized laboratories, requiring control reference sera.
+- **Complement Fixation Antibodies**:
+  - Recognize NS1 protein, relatively specific in distinguishing between antigenic complexes.
+  - Rise late (4–6 weeks after onset) and decline with a half-life of 3 years.
+- **Rapid Immunochromatographic Tests**:
+  - High sensitivity and specificity in field evaluations (100% and 90%, respectively, for dengue test).
+  - Facilitate laboratory confirmation of cases in clinical facilities.
+  - NS1 protein present in serum early in DENV infection can be detected by antigen capture ELISA or rapid immunochromatographic tests.
+- **Case Confirmation**:
+  - Fourfold change in serum antibody titer confirms the case.
+  - In encephalitis patients, demonstration of viral-specific IgM in CSF reflects intrathecal immune response.
+  - Elevated serum IgM antibody level alone is presumptive evidence of recent infection if high IgM prevalence rates prevail due to frequent asymptomatic infections.

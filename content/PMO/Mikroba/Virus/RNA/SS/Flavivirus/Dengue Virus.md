@@ -1,0 +1,345 @@
+[[Flavivirus]]
+# Definis singkat
+Dengue virus (DENV) is the cause of dengue fever. It is a mosquito-borne, single positive-stranded RNA virus of the family Flaviviridae; genus Flavivirus. Four serotypes of the virus have been found, and a reported fifth has yet to be confirmed, all of which can cause the full spectrum of disease. Nevertheless, the mainstream scientific community's understanding of dengue virus may be simplistic as, rather than distinct antigenic groups, a continuum appears to exist. This same study identified 47 strains of dengue virus. Additionally, coinfection with and lack of rapid tests for Zika virus and chikungunya complicate matters in real-world infections.
+# Taksonomi
+Realm:	Riboviria
+Kingdom:	Orthornavirae
+Phylum:	Kitrinoviricota
+Class:	Flasuviricetes
+Order:	Amarillovirales
+Family:	Flaviviridae
+Genus:	Flavivirus
+Species: Dengue Virus
+# Properti
+- **Structure**:
+  - Enveloped virus with a spherical shape.
+  - Size: 40–60 nm in diameter.
+  - Icosahedral capsid.
+- **Genome**:
+  - Single-stranded positive-sense RNA genome.
+  - Linear, 11 kb in size.
+  - Genome RNA is infectious.
+- **Proteins**:
+  - Three structural polypeptides, two of which are glycosylated.
+- **Replication and Assembly**:
+  - Replication occurs in the cytoplasm.
+  - Assembly takes place within the endoplasmic reticulum.
+- **Serology**:
+  - All dengue virus strains are serologically related.
+# Transmisi
+- [[Nyamuk]] Aedes
+	- Aedes aegypti
+	- Aedes albopictus
+# Klasifikasi terbaru 2009
+- Dengue
+	- Dengue with warning signs
+		- One or more of the folllowing: 
+			- abdominal pain, 
+			- persistent vomiting, 
+			- mucosal bleeding, 
+			- plasma leakage, 
+			- lethargy
+- Severe dengue
+	- One or more of the folllowing: 
+		- severe plasma leakage, 
+		- severe bleeding, 
+		- severe organ involvement
+For the 2009 case classification, evidence of severe plasma leakage includes either shock requiring fluid resuscitation or fluid
+accumulation impairing respiratory function; severe bleeding and severe organ involvement are determined by the clinician’s judgment.
+# PP
+- **Infection Characteristics**:
+  - Most DENV infections are subclinical.
+  - Self-limited dengue fever is the usual clinical outcome.
+  - Dengue Hemorrhagic Fever (DHF) occurs in a small percentage of cases, usually due to an immunopathologic response in the setting of heterologous immunity from prior infection with a different DENV type or another flavivirus.
+- **Early Stages of Infection**:
+  - Inferred from experimental infection of humans or other primates.
+  - Virus replicates in local lymph nodes after an infectious mosquito bite.
+  - Disseminates through the blood to various tissues within 2 to 3 days.
+  - Virus circulates in the blood for 4 to 7 days in plasma and infected monocytes.
+  - Viral RNA is readily detected in circulating B cells.
+- **Virus Replication and Antigen Detection**:
+  - Likely replicates in skin, reactive spleen lymphoid cells, and tissue macrophages.
+  - Viral antigen demonstrated in liver Kupffer cells, endothelia, renal tubular cells, alveolar macrophages, and endothelia.
+  - Active viral replication at these sites is difficult to document.
+- **Clinical Presentation**:
+  - Almost all patients are viremic at the point of clinical presentation with fever.
+  - Virus is cleared from the blood within days after defervescence.
+  - Malaise and influenza-like symptoms likely reflect cytokine response.
+  - Myalgia (breakbone fever) may indicate pathologic changes in muscle or bone marrow elements.
+  - Suppression of erythropoiesis, myelopoiesis, and thrombopoiesis is reflected in peripheral cytopenias.
+- **Histopathologic Findings**:
+  - Minor lymphocytic dermal vasculitis and viral antigen in skin with rash.
+  - Elevated hepatic aminotransferase levels, with AST initially higher than ALT.
+  - Higher aminotransferase levels in DHF compared to dengue fever.
+  - In fatal cases, findings resemble early mild Yellow Fever (YF): hypertrophy of Kupffer cells, focal ballooning, necrosis of hepatocytes, occasional Councilman body formation, mild fatty changes, scant periportal mononuclear cell response.
+- **Neurologic Complications**:
+  - Attributed to metabolic alterations and intracranial hemorrhages.
+  - Viral CNS invasion and encephalitis have been demonstrated.
+### Dengue Shock Syndrome (DSS)
+- **Occurrence**:
+  - Shock occurs after the sudden extravasation of plasma into extravascular sites (mainly pleural and abdominal cavities).
+  - Usually coincides with the disappearance of fever.
+- **Vascular Permeability and Immune Activation**:
+  - Extensive increase in vascular permeability associated with immune activation.
+  - Increased plasma levels of mediators such as:
+    - Soluble tumor necrosis factor receptor (sTNFR/75).
+    - IL-8.
+    - Interferon (IFN)-γ.
+    - Vascular endothelial growth factor.
+  - Immune complex formation activates the complement system, increasing levels of C3a, C5a, and soluble C5b-9 complexes.
+- **Syndrome Reversibility**:
+  - Rapid and predictable reversibility within 48 hours.
+  - Paucity of histopathologic correlates:
+    - Usually perivascular edema with diapedesis of red cells.
+    - Widespread focal hemorrhages.
+- **Inflammatory Response and Vasculopathy**:
+  - Inflammatory response produces a vasculopathy.
+  - Reduced cardiac output may further contribute to shock.
+- **Hemorrhagic Diathesis**:
+  - Complex and not well understood.
+  - Reflects a combination of:
+    - Cytokine action.
+    - Vascular injury.
+    - Viral antibodies binding to platelets or cross-reacting with plasminogen and other clotting factors.
+    - Reduced platelet function and survival.
+    - Mild consumptive coagulopathy.
+### Immune Response and Pathogenesis in Severe Dengue Disease
+- **Role of Adaptive Immunity**:
+  - Increased frequency of Dengue Hemorrhagic Fever (DHF) associated with sequential DENV infections of different types.
+  - Serotype cross-reactive "heterologous" antibodies from earlier DENV infections enhance viral uptake and replication in Fc receptor-bearing cells (antibody-dependent enhancement) in vitro and in a mouse model.
+- **Effect of Passively Acquired Antibody**:
+  - Proposed to have the same pathologic effect during primary DENV infection in infants born to dengue-immune women.
+- **Memory Cellular Responses**:
+  - Contribute to immunopathology during secondary infections.
+  - Elevated levels of plasma-soluble CD8 and soluble IL-2 indicate activation of memory CD4+ and CD8+ T cells in response to a second infection.
+  - Cells responding to cross-reactive antigens predominate over primary responses, following the paradigm of original antigenic sin.
+  - Ineffective in viral clearance and may produce cytokines with negative clinical effects.
+- **Cytokine Production**:
+  - Resulting cytokines include IL-2, IFN-γ, TNF-α, and other lymphokines.
+  - Reinforced by infected target cells and flavivirus-induced expression of MHC class I and II molecules.
+- **Monocyte and Endothelial Cell Activation**:
+  - Activated infected monocytes and possibly endothelial cells release TNF-α, IL-1, platelet-activating factor, IL-8, and RANTES.
+  - These act in synergy with lymphokines, histamine, and C3a and C5a, producing transient vascular endothelial dysfunction and plasma leakage.
+- **Effects on Vascular Endothelial Function**:
+  - Attributed to secreted NS1 protein and activation of other cell types, including platelets and mast cells.
+- **DHF Production**:
+  - Any of the four DENV types can produce DHF.
+  - Greater propensity after second infections with certain DENV types or specific virulent strains.
+  - Increased or fluctuating severity during outbreaks attributed to the evolution of viral quasispecies.
+- **Host Genetic Polymorphisms**:
+  - Influence risk for DHF, particularly in HLA and MICB genes (control immune responses) and PLCE1 gene (mechanism unknown).
+- **Immune Responses and Viremia Clearance**:
+  - Induction of innate immune responses and rise in serum neutralizing antibodies correlated with viremia clearance.
+  - Protective immunity involves both humoral and cellular responses.
+- **Cross-Protective Immunity**:
+  - Limited and brief after infection with one DENV type.
+  - Infection with a second DENV type during the same season is not uncommon.
+  - Illness after infection with two or more DENV types (third or fourth infections) occurs infrequently, reflecting higher antibody titers and more cross-reactive antibodies.
+![[Pathogenesis DF, DHF, DSS.png]]
+# SS
+- **Traditional Classification**:
+  - Distinction between classic dengue fever and DHF (Dengue Hemorrhagic Fever).
+  - DHF reflects more severe disease with plasma leakage, bleeding complications, or both.
+- **Alternative Classification (2009)**:
+  - Defines criteria for:
+    - Dengue.
+    - Dengue with warning signs.
+    - Severe dengue.
+  - Adopted for epidemiologic reporting in most countries, but both systems are used in literature.
+- **Classic Dengue Fever**:
+  - Acute febrile disease with headaches, musculoskeletal pain, and rash.
+  - Severity of illness and clinical manifestations vary with age and DENV type.
+  - Often asymptomatic or presents as a nonspecific syndrome, particularly in children.
+  - DENV-2 and DENV-4 may cause inapparent infections in flavivirus-naïve persons.
+  - Increased disease severity among infants and elderly people.
+  - Incubation period of 4 to 7 days.
+  - Fever develops abruptly with chills, severe frontal headache, and retro-orbital pain.
+  - Progresses rapidly to prostration, severe musculoskeletal and lumbar back pain, and abdominal tenderness.
+  - Common complaints: anorexia, nausea, vomiting, hyperesthesia of the skin, dysgeusia.
+  - Initial skin flushing, followed by indistinct macular and sometimes scarlatiniform rash developing within 3 to 4 days.
+  - Rash spares the palms and soles.
+  - Localized clusters of petechiae on the extensor surfaces of the limbs may remain.
+  - "Saddleback" pattern: a second episode of fever and symptoms may occur.
+  - Recovery may be followed by prolonged listlessness, easy fatigability, and depression.
+- **Bleeding Complications**:
+  - Minor bleeding from mucosal surfaces (epistaxis, gum bleeding, hematuria, metrorrhagia) is common.
+  - Gastrointestinal hemorrhage and hemoptysis can occur.
+  - Severe, even fatal, gastric bleeding in patients with preexisting peptic ulcer disease.
+  - Subcapsular splenic bleeding and rupture, uterine hemorrhage (spontaneous abortion), and severe postpartum bleeding reported.
+  - Differentiation needed from bleeding diathesis in DHF-DSS.
+- **Complications**:
+  - Hepatitis frequently complicates dengue fever.
+  - Neurologic symptoms: attributed to hemorrhages or cerebral edema.
+  - Possibility of primary dengue encephalitis indicated by virus recovery from CSF, intrathecal viral-specific IgM, and immunohistochemical evidence of infection in the brain.
+  - Myositis with rhabdomyolysis reported.
+###  Vertical Transmission of Dengue Virus (DENV) to Neonates
+- **Vertical Transmission**:
+  - Occurs when mothers have an onset of primary or secondary dengue fever up to 5 weeks before delivery.
+  - Results in acute neonatal dengue.
+- **Manifestations in Neonates**:
+  - Fever.
+  - Cyanosis.
+  - Apnea.
+  - Mottling.
+  - Hepatomegaly.
+  - Reduced platelet counts (as low as 11,000/mm³).
+  - DENV isolated from neonates in some cases.
+  - One infant died of intracerebral hemorrhage.
+  - Other infants, though ill, did not show signs of DHF and recovered without incident.
+### Dengue Hemorrhagic Fever (DHF) and Dengue Shock Syndrome (DSS)
+- **Central Clinical Features**:
+  - Hemorrhagic phenomena.
+  - Hypovolemic shock caused by increased vascular permeability and plasma leakage.
+- **Early Clinical Features**:
+  - Indistinguishable from ordinary dengue fever:
+    - Fever.
+    - Malaise.
+    - Headache.
+    - Musculoskeletal pain.
+    - Facial flushing.
+    - Anorexia.
+    - Nausea and vomiting.
+- **Signs of Shock with Defervescence** (3 to 7 days after illness onset):
+  - Reduced perfusion.
+  - Central cyanosis.
+  - Restlessness.
+  - Diaphoresis (sweating).
+  - Cool, clammy skin and extremities.
+  - Abdominal pain.
+- **Hemodynamic Signs**:
+  - Rapid and weak pulse.
+  - Narrowing of pulse pressure to less than 20 mm Hg.
+  - Unobtainable blood pressure in extreme cases, establishing DSS.
+- **Hematologic Changes**:
+  - Declining platelet count.
+  - Petechiae in widespread distribution with spontaneous ecchymoses.
+  - Bleeding at mucosal surfaces (gastrointestinal tract, venipuncture sites).
+- **Hepatic and Pancreatic Changes**:
+  - Liver palpably enlarged in up to 75% of patients.
+  - Variable splenomegaly.
+  - Increased amylase levels.
+  - Ultrasonographic evidence of pancreatic enlargement in up to 40% of patients.
+- **Pleural and Peritoneal Effusions**:
+  - Detected in more than 80% of cases with decubitus film.
+  - Associated with severe disease.
+  - Uncommon pulmonary edema except in prolonged shock.
+- **Complications in Untreated Patients**:
+  - Hypoperfusion complicated by myocardial dysfunction and reduced ejection fraction.
+  - Metabolic acidosis and organ failure.
+- **Recovery and Duration**:
+  - Spontaneous resolution of vasculopathy and circulatory failure within 2 to 3 days with support.
+  - Duration of illness ranges from 7 to 10 days.
+  - Fatality rates up to 50% in underserved populations; less than 1% in experienced centers.
+  - Poor prognosis associated with encephalopathy, prolonged shock, hepatic or renal failure.
+- **Concurrent Infections**:
+  - Frequent concurrent infections with bacteria, parasites, and other viral pathogens in endemic areas.
+  - Dual infections, mainly gram-negative sepsis, reported in 1 of 200 children hospitalized with dengue, leading to prolonged fever and hospitalization.
+### Differentiating Dengue Fever from Other Acute Febrile Illnesses
+- **Clinical Differentiation**:
+  - Unreliable on clinical grounds alone.
+  - Supportive laboratory findings include leukopenia, neutropenia, thrombocytopenia, and mildly elevated AST levels.
+- **Tourniquet Test**:
+  - A positive test is one of the criteria in the DHF case definition.
+  - Obtained more often in children with dengue than in those with other febrile illnesses.
+  - Has low specificity.
+- **Comparison with Other Infections**:
+  - Dengue patients less likely to have conjunctivitis, rash, and joint pain compared to chikungunya.
+  - Difficulty in differentiating dengue from rubella, measles, and influenza.
+  - Early misrecognition of entire epidemics underscores this challenge.
+- **Clinical Picture of DHF**:
+  - More distinct but overlaps with Yellow Fever (YF) and other viral hemorrhagic fevers.
+- **Predictive Laboratory Findings**:
+  - Differentiating children destined to develop DHF at the first presentation would facilitate early intervention.
+  - In one study, the following had higher predictive values than the tourniquet test:
+    - AST elevations greater than 60 U/mL.
+    - Leukocyte counts less than 5000/mm³.
+    - Absolute neutrophil counts less than 3000/mm³.
+# Diagnosis
+[[Flavivirus#Diagnosis]]
+# Epidemiologi
+- **Transmission Mechanisms and Patterns**:
+  - Four DENV types share similar transmission mechanisms and patterns.
+  - Transmitted in the tropics between 35° north and 35° south latitude, primarily by *Aedes aegypti* mosquitoes.
+  - *Aedes albopictus*, *Aedes polynesiensis*, and other species can also transmit DENVs.
+- **Vectors and Enzootic Transmission**:
+  - Although enzootic transmission among forest monkeys in Asia and Africa exists, anthroponotic transmission maintains the virus.
+  - Intensification of dengue transmission in tropical cities due to the close relationship of *A. aegypti* to humans.
+- **Mosquito Feeding and Transmission Cycle**:
+  - After feeding on a viremic person, viral replication and dissemination occur in the mosquito during an extrinsic incubation period of 1 to 2 weeks.
+  - *A. aegypti* breed around human dwellings and bite during 1- to 2-hour intervals in the morning and late afternoon.
+  - In endemic areas, 1 in 20 houses may contain an infected mosquito, with cases clustering in households.
+- **Weather Conditions and Transmission**:
+  - DENV transmission is closely linked to weather conditions such as rainfall, humidity, and temperature variation.
+- **Introduction and Outbreaks**:
+  - Outbreaks occur when the virus is introduced into susceptible populations by viremic travelers.
+  - Limited cross-protective immunity among the four DENV types leads to recurring epidemic transmission with new DENV types.
+- **Secondary Infections and DHF**:
+  - Concurrent transmission of multiple DENV types establishes conditions for endemic DHF.
+  - Most DHF cases occur in individuals with secondary infections, with a high relative risk for developing DHF with shock.
+- **Primary DENV Infection in Infants**:
+  - Infants passively acquire DENV-specific antibodies from DENV-immune mothers.
+  - Age distribution of DHF parallels the decline of maternal antibodies, supporting a role for antibodies in severe disease.
+- **Epidemics and Disease Burden**:
+  - Asia and the Western Pacific bear nearly 75% of the global dengue disease burden.
+  - Highest incidence during childhood, with significant infection rates among schoolchildren.
+- **Transmission in All Age Groups**:
+  - Dengue occurs in all age groups when newly introduced or reintroduced to an area.
+  - Severe disease may occur in previously immunologically primed adults.
+- **Dissemination by Viremic Travelers**:
+  - Increased mobility and air travel facilitate dissemination of DENVs.
+  - Documented DENV infection in 7% to 45% of febrile returned travelers.
+  - Small numbers of autochthonous cases recognized in Texas towns bordering Mexico.
+- **Accidental and Transfusion-Associated Transmission**:
+  - Infection can be transmitted by accidental needlestick.
+  - High incidence of infection in endemic areas suggests transfusion-associated transmission risk.
+  - Guidelines for blood product donation have been developed to mitigate this risk.
+# Tatalakasana
+- **Management of Dengue**:
+  - Effective at reducing morbidity and mortality if properly executed.
+  - Key is to recognize the disease phase (febrile, critical, recovery) and implement required interventions.
+  - Address key pathophysiologic mechanisms (plasma leakage and hemorrhage).
+  - Fatalities often due to late presentation, delayed escalation of care, or overaggressive intravenous fluids.
+- **Recognition and Supportive Therapy**:
+  - Essential to recognize warning signs of plasma leakage and intravascular volume depletion: abdominal pain, nausea, vomiting, lethargy, mental status changes, decreased urine output, tachycardia, and decreasing pulse pressure.
+  - Supportive therapy administered promptly.
+  - Avoid iatrogenic volume overload by following clinical and biochemical clues of volume status.
+- **Comorbidities**:
+  - Hypertension, diabetes, pulmonary, and cardiac disease increase risk for severe disease and poor outcome.
+  - Evidence-based management algorithms are highly effective.
+- **Symptomatic Treatment**:
+  - Acetaminophen-based products for fever, myalgias, and arthralgias.
+  - Avoid acetylsalicylic acid (aspirin), ibuprofen, or other nonsteroidal anti-inflammatory agents due to risk of hemorrhagic complications or Reye syndrome.
+  - Oral rehydration with fluids containing electrolytes and sugars is encouraged.
+- **Clinical Monitoring and Care**:
+  - Lifesaving for suspected severe dengue (DHF-DSS).
+  - Monitor adequacy of circulation and vascular leakage through pulse, blood pressure, skin perfusion, urine output, and hematocrit.
+  - Trigger intravenous fluid therapy with significant hematocrit increase (>20%).
+  - Normal saline to maintain circulation, treat recurrent shock with isotonic crystalloid or colloid solutions, plasma, or whole-blood transfusions.
+- **Dangers and Interventions**:
+  - Risk of acute respiratory distress syndrome (ARDS) due to excessive fluid administration.
+  - Whole-blood, platelet, and fresh-frozen plasma transfusions may be needed for significant hemorrhage.
+  - Caution with heparin administration except in clear disseminated intravascular coagulopathy.
+  - Avoid preventive transfusions and minimize invasive procedures to prevent hemorrhagic complications.
+  - Controlled clinical trials show no benefit for corticosteroids; other proposed drugs lack established clinical benefit.
+- **Dengue Prevention**:
+  - Community-based *A. aegypti* control programs to remove and destroy mosquito breeding sites.
+  - Challenge due to ubiquity of containers providing breeding habitats.
+  - Combination of vector surveillance, area treatment, and monitoring rarely successful long-term.
+  - Indoor residual insecticidal sprays effective in sealed houses; insecticide-treated curtains may be effective.
+  - Bed nets not useful as mosquitoes are most active during the day.
+- **Dengue Vaccine (Dengvaxia)**:
+  - Live-attenuated tetravalent vaccine containing four recombinant chimeric flaviviruses.
+  - Licensed in 20 countries for prevention in individuals 9 to 45 years old.
+  - Phase III trials showed overall efficacy of 56.5% and 60.8% in Asia and Latin America.
+  - Higher efficacy rates for preventing hospitalized (80.3%) or severe dengue (95.5%).
+  - Lower efficacy against DENV-2 (47%) compared to DENV-1, DENV-3, and DENV-4.
+  - Increased risk of hospitalized dengue in youngest vaccinated cohort during the second year post-vaccination.
+  - Not recommended without laboratory confirmation of prior DENV infection.
+- **Other Dengue Vaccines**:
+  - Two live-attenuated tetravalent vaccines in phase III trials.
+  - Differ in composition from Dengvaxia.
+  - One contains recombinant attenuated DENV-2 strain with chimeric viruses from DENV-2 genome.
+  - Second contains recombinant strains of DENV-1, DENV-3, and DENV-4 with engineered mutations and chimeric virus from DENV-4 genome.
+  - Inclusion of DENV nonstructural gene segments aimed to eliminate increased risk observed with Dengvaxia.
+- **Vaccines in Development**:
+  - Platforms include purified inactivated viruses with novel adjuvants, recombinant proteins, and plasmid DNA.

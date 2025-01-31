@@ -1,0 +1,7 @@
+https://www.ncbi.nlm.nih.gov/books/NBK482337/ (Shigellosis)
+https://sci-hub.se/https://doi.org/10.1016/s0140-6736(17)33296-8 (Shigellosis)
+https://www.ncbi.nlm.nih.gov/books/NBK555892/ (Salmonellosis)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10705591/ (Salmonellosis (ini bukan yang bagus))
+https://www.ncbi.nlm.nih.gov/books/NBK537033/ (Campylobacter)
+https://sci-hub.se/https://doi.org/10.1093/infdis/155.3.377 (E coli)
+https://www.ncbi.nlm.nih.gov/books/NBK564298/ (E coli)
