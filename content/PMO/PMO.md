@@ -18,7 +18,7 @@
  9. [[Human Immunodeficiency Virus (HIV) dan Acquired Immunodeficiency Syndrome (AIDS)]]
  10. [[Infeksi TORCH]]
  11. [[Dengue Fever (DF) dan Dengue Hemorrhagic Fever (DHF)]]
- 12. [[Malaria]]
+ 12. [[PMO/Mikroba/2. Daftar Penyakit/Malaria]]
  13. [[Filariasis]]
  14. [[Measles atau Morbili ]]
  15. [[Kusta]]
