@@ -1,4 +1,4 @@
-[[Flavivirus]]
+[[PMO/Mikroba/Virus/RNA/SS/Flavivirus/Flavivirus]]
 # Definis singkat
 Dengue virus (DENV) is the cause of dengue fever. It is a mosquito-borne, single positive-stranded RNA virus of the family Flaviviridae; genus Flavivirus. Four serotypes of the virus have been found, and a reported fifth has yet to be confirmed, all of which can cause the full spectrum of disease. Nevertheless, the mainstream scientific community's understanding of dengue virus may be simplistic as, rather than distinct antigenic groups, a continuum appears to exist. This same study identified 47 strains of dengue virus. Additionally, coinfection with and lack of rapid tests for Zika virus and chikungunya complicate matters in real-world infections.
 # Taksonomi
@@ -255,7 +255,7 @@ accumulation impairing respiratory function; severe bleeding and severe organ in
     - Leukocyte counts less than 5000/mm³.
     - Absolute neutrophil counts less than 3000/mm³.
 # Diagnosis
-[[Flavivirus#Diagnosis]]
+[[PMO/Mikroba/Virus/RNA/SS/Flavivirus/Flavivirus#Diagnosis]]
 # Epidemiologi
 - **Transmission Mechanisms and Patterns**:
   - Four DENV types share similar transmission mechanisms and patterns.
